@@ -1,7 +1,19 @@
 div{
+    margin: 30px;
     font-size: 56px;
     font-weight: 700;
     background-color: blueviolet;
     color: white;
+    text-align: center;
+}
+.ex{
+    margin: 30px;
+    background-color: aqua;
+    border: 2px solid;
+    border-color: brown;
+    border-radius: 10px;
+    color: teal;
+    font-size: 56px;
+    font-weight: 700;
     text-align: center;
 }
